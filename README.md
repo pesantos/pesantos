@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about scalable aplications, devOps and non relational databases.
 - 📫 You can reach me by email on fabricasuporte@gmail.com 
 - 🤖 I like to solve javascript problems in my free time here https://exercism.org/profiles/ganondorfan/solutions
-- 🤖 I manage, create and implement digital soluctions in this institutional website https://diviprev.mg.gov.br/
+- 🤖 I manage, create and implement digital solutions in this institutional website https://diviprev.mg.gov.br/
 - 🤖 I keep a large transaction system that manage festivity events in this angular based aplication https://www.qualitygestao.com.br/distribuicao/
 - 🤖 I constantly update a solution of integrated drugstore vendors here https://drogarede.com.br/associados/  
 
