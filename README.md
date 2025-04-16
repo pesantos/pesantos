@@ -1,13 +1,25 @@
-- 👋 Hi, I’m @pesantos, an independent brazilian developer.
-- 👀 I’m interested in learn new technologies and interact with promising projects.
-- 🌱 I’m currently learning about scalable aplications, devOps and non relational databases.
-- 📫 You can reach me by email on fabricasuporte@gmail.com 
-- 🤖 I like to solve javascript problems in my free time here https://exercism.org/profiles/ganondorfan/solutions
-- 🤖 I manage, create and implement digital solutions in this institutional website https://diviprev.mg.gov.br/
-- 🤖 I keep this landing site that reflect the transactions of the event manager system, that also is mantained by me https://farmatrend.com.br/
-- 🤖 I keep a large transaction system that manage festivity events in this angular based aplication https://www.qualitygestao.com.br/distribuicao/
-- 🤖 I constantly update a solution of integrated drugstore vendors here https://drogarede.com.br/associados/  
-- 🎮 I keep this game as a piece of study, it uses AndEngine and no grafical framework for development, was programed with Java (Android Native) https://play.google.com/store/apps/details?id=com.jumpo.build.jumpo
+## 👋 Hello there!
+
+I'm @pesantos, an independent developer from Brazil with a passion for building efficient and scalable digital solutions.
+
+🔍 I'm always exploring new technologies and love contributing to innovative and promising projects.
+
+🚀 My current focus is on scalable application architecture, DevOps practices, and non-relational databases.
+
+🛠️ I have hands-on experience with:
+**JavaScript, Node.js, Java, PHP, MySQL, PostgreSQL, Android (Java), Angular, React, HTML, CSS, and Git.**
+
+💻 I work on a variety of real-world systems, including:
+- Institutional websites
+- Event management platforms
+- Pharmacy vendor solutions
+- Custom landing pages
+- Study-based game development for Android
+
+🧠 In my free time, I enjoy solving JavaScript challenges on Exercism and experimenting with new tools and frameworks.
+
+📬 Feel free to reach out: fabricasuporte@gmail.com
+
 
 
 - ## 🧰 Languages and Tools that I have familiarity:
